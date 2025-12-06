@@ -5,26 +5,7 @@ The projects are organized into two main categories: **Classification** and **Re
 
 ---
 
-## 📂 Folder Structure
 
-<div>
-<pre>
-Machine Learning Projects
-│── Classification
-│   ├── Diabetes
-│   ├── Heart Disease Prediction
-│   ├── Sonar Rock vs Mine Prediction
-│   ├── Titanic Prediction
-│
-└── Regression
-    ├── Boston
-    ├── Big Mart Sales Prediction
-    ├── California House Prediction
-    ├── Gold Price Prediction
-    └── Medical Insurance Cost Prediction
-</pre>
-</div>
----
 
 ## 🔍 Project Categories
 
