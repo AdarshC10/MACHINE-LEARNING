@@ -197,12 +197,3 @@ Output:
 
 ---
 
-## 👨‍💻 Author
-
-**Adarsh C**
-MERN Stack Developer & Data Science Enthusiast
-
----
-
-
-```
